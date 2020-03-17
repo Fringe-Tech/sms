@@ -123,7 +123,7 @@ pexpect==4.8.0
 pgcli==2.1.1
 pgspecial==1.11.7
 pickleshare==0.7.5
-Pillow==6.1.0
+Pillow==6.2.0
 pipenv==2018.11.26
 pluggy==0.13.1
 powerline-status==2.7
