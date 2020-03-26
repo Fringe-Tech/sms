@@ -1,0 +1,29 @@
+{
+  "name": "https://github.com/Fringe-Tech/sms",
+  "version": "1.0.0",
+  "description": "A sms  Django boilerplate.",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "engines": {
+    "node": "8.11.3"
+  },
+  "devDependencies": {
+    "eslint": "5.0.0",
+    "eslint-config-google": "0.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fringe-Tech/sms"
+  },
+  "keywords": [
+    "django",
+    "web-app",
+    "School management system"
+  ],
+  "author": "FringeTech",
+  "contributors": [
+    "FTIC Support <https://r3klaw.github.io/>"
+  ],
+  "license": "GNU"
+}
